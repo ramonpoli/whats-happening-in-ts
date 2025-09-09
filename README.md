@@ -7,3 +7,6 @@ New technologies and tools happening in the TypeScript environment
 
 ## CSS
 1. [Increase the clickable area](https://codepen.io/una/pen/gbaWdmy) without altering the layout
+
+## Other
+1. [Awesome list of resources](https://awesomeindex.dev/) A curated lits of resources with a search functionality
